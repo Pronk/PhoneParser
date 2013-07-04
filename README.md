@@ -1,4 +1,4 @@
 PhoneParser
 ===========
 
-Small project
+Small utility project written with C#;
